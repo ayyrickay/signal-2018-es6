@@ -17,7 +17,7 @@
 
 [How to Learn ES6 (Eric Elliot)](https://medium.com/javascript-scene/how-to-learn-es6-47d9a1ac2620)
 
-[When and Why You Should Use Arrow Functions] (https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26)
+[When and Why You Should Use Arrow Functions](https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26)
 
 [Funfunfunction: Promises (Video)](https://www.youtube.com/watch?v=2d7s3spWAzo)
 
