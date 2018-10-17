@@ -1,4 +1,5 @@
-# How Javascript Got Its Groove Back: Cool ES2015 features and why you should be using them
+# How Javascript Got Its Groove Back
+## New javascript features and why you should be using them
 #### SIGNAL 2018
 #### Speaker: Ricky Holtz
 
