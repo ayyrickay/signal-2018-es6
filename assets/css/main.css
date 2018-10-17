@@ -1,0 +1,29 @@
+body {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif;
+  max-width: 50em;
+  margin: 0 auto;
+  color: rgba(0, 0, 0, 0.8)
+}
+
+div {
+  margin: 1em 0;
+}
+
+p {
+  margin: 0.3em 0;
+  line-height: 1.5;
+}
+
+.message-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+
+.body {
+  flex-basis: 100%;
+}
+
+.sid {
+  font-weight: 700;
+}
